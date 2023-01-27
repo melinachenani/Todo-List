@@ -7,7 +7,7 @@ This mini-project is a simple web application that saves the list of tasks you n
 - Mark tasks as completed/uncompleted
 - Observe the completed/uncompleted tasks in different section of the dropdown
 
-# Technologies used
+# Language used
 - HTML
 - CSS
 - JavaScript
